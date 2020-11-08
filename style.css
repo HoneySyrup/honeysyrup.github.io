@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+.title {
+    font-size: 80px;
+}
+
+#btnSi {
+    background-color: green;
+    color: white;
+    font-size: 70px;
+}
+
+#btnNo {
+    background-color: red;
+    color: white;
+    font-size: 70px;
+}
+
+.image {
+    position: absolute;
+    right: -10px;
+    bottom: 0;
+    height: 1000px;
+    width: auto;
+    z-index: -1;
+    opacity: 60%;
+}
