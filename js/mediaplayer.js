@@ -1,9 +1,9 @@
 $(document).ready(function() {
     var playlist = [{
-        title: "My Funny Valentine",
+        title: "The Way You Look Tonight",
         artist: "Frank Sinatra",
-        mp3: "music/myfunnyvalentine.mp3",
-        oga: "music/myfunnyvalentine.mp3",
+        mp3: "music/thewayyoulooktonight.mp3",
+        oga: "music/thewayyoulooktonight.mp3",
         poster: "images/franksinatra.jpg"
     }, {
         title: "Can't Help Falling In Love",
